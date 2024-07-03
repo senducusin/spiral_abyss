@@ -30,5 +30,5 @@
 3. Achievement reward: One (1) Battle Pass or cash equivalent (590 pesos).
 
 ## Links
-[Genshin Impact](https://genshin.hoyoverse.com/en/)
-[Infinix GT 20 Pro](https://ph.infinixmobility.com/gt-20-pro)
+1. [Genshin Impact](https://genshin.hoyoverse.com/en/)
+2. [Infinix GT 20 Pro](https://ph.infinixmobility.com/gt-20-pro)
