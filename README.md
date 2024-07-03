@@ -7,18 +7,19 @@
 3. Account must be Free to Play (F2P) - The account has not purchased any items from the in-game shop except for Paimon's Bargains items.
 
 ## Rules
-1. The account must remain free to play for the duration of the tournament. Verification will be done through submitted screenshots/videos.
-2. Players who receive Genesis Crystals will not be automatically disqualified as long as the Genesis Crystals are not used; otherwise, they will be disqualified.
-3. Players who receive the Blessing of the Welkin Moon will not be automatically disqualified as long as the Primogems are not claimed; otherwise, they will be disqualified.
-4. The tournament will end on November 17, 2024, at 12 NN.
-5. Players are allowed to spend their Primogems and Fates on any banner or in-game purchases.
-6. Players are allowed to use Stardust.
-7. Players are allowed to use Starglitter.
-8. 4-star characters with maximum constellation (C6) can be used in the Abyss.
-9. 5-star characters with no more than one (1) constellation can be used in the Abyss.
-10. There are no restrictions on in-game weapons, costumes, gliders, artifacts, or pets.
-11. The first player to complete the first objective wins the tournament.
-12. Players must submit progress screenshots/videos as proof of completion.
+1. Minimum of 3 players.
+2. The account must remain free to play for the duration of the tournament. Verification will be done through submitted screenshots/videos.
+3. Players who receive Genesis Crystals will not be automatically disqualified as long as the Genesis Crystals are not used; otherwise, they will be disqualified.
+4. Players who receive the Blessing of the Welkin Moon will not be automatically disqualified as long as the Primogems are not claimed; otherwise, they will be disqualified.
+5. The tournament will end on November 17, 2024, at 12 NN.
+6. Players are allowed to spend their Primogems and Fates on any banner or in-game purchases.
+7. Players are allowed to use Stardust.
+8. Players are allowed to use Starglitter.
+9. 4-star characters with maximum constellation (C6) can be used in the Abyss.
+10. 5-star characters with no more than one (1) constellation can be used in the Abyss.
+11. There are no restrictions on in-game weapons, costumes, gliders, artifacts, or pets.
+12. The first player to complete the first objective wins the tournament.
+13. Players must submit progress screenshots/videos as proof of completion.
 
 ## Objectives
 1. Complete the Spiral Abyss with the highest total stars.
