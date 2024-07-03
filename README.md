@@ -19,10 +19,11 @@
 10. 5-star characters with no more than one (1) constellation can be used in the Abyss.
 11. There are no restrictions on in-game weapons, costumes, gliders, artifacts, or pets.
 12. The first player to complete the first objective wins the tournament.
-13. Players must submit progress screenshots/videos as proof of completion.
+13. If the first objective is not completed by the end of the event, the player with the highest total star count will be the winner.
+14. Players must submit progress screenshots/videos as proof of completion.
 
 ## Objectives
-1. Complete the Spiral Abyss with the highest total stars.
+1. Complete the Spiral Abyss with 3 stars in all chambers on all floors.
 2. Achieve the most damage dealt in a single hit.
 
 ## Prizes
