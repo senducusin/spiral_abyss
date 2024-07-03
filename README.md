@@ -5,22 +5,24 @@
 1. Open to any member of Voltes V - Wampis Era GC only.
 2. Genshin Impact account must be created no earlier than July 4, 2024.
 3. Account must be Free to Play (F2P) - The account has not purchased any items from the in-game shop except for Paimon's Bargains items.
+4. Hacked accounts/starter accounts are not qualified.
 
 ## Rules
 1. Minimum of 3 players.
-2. The account must remain free to play for the duration of the tournament. Verification will be done through submitted screenshots/videos.
-3. Players who receive Genesis Crystals will not be automatically disqualified as long as the Genesis Crystals are not used; otherwise, they will be disqualified.
-4. Players who receive the Blessing of the Welkin Moon will not be automatically disqualified as long as the Primogems are not claimed; otherwise, they will be disqualified.
-5. The tournament will end on November 17, 2024, at 12 NN.
-6. Players are allowed to spend their Primogems and Fates on any banner or in-game purchases.
-7. Players are allowed to use Stardust.
-8. Players are allowed to use Starglitter.
-9. 4-star characters with maximum constellation (C6) can be used in the Abyss.
-10. 5-star characters with no more than one (1) constellation can be used in the Abyss.
-11. There are no restrictions on in-game weapons, costumes, gliders, artifacts, or pets.
-12. The first player to complete the first objective wins the tournament.
-13. If the first objective is not completed by the end of the event, the player with the highest total star count will be the winner.
-14. Players must submit progress screenshots/videos as proof of completion.
+2. Using illegal game hacks or account hacks will result in disqualification.
+3. The account must remain free to play for the duration of the tournament. Verification will be done through submitted screenshots/videos.
+4. Players who receive Genesis Crystals will not be automatically disqualified as long as the Genesis Crystals are not used; otherwise, they will be disqualified.
+5. Players who receive the Blessing of the Welkin Moon will not be automatically disqualified as long as the Primogems are not claimed; otherwise, they will be disqualified.
+6. The tournament will end on November 17, 2024, at 12 NN.
+7. Players are allowed to spend their Primogems and Fates on any banner or in-game purchases.
+8. Players are allowed to use Stardust.
+9. Players are allowed to use Starglitter.
+10. 4-star characters with maximum constellation (C6) can be used in the Abyss.
+11. 5-star characters with no more than one (1) constellation can be used in the Abyss.
+12. There are no restrictions on in-game weapons, costumes, gliders, artifacts, or pets.
+13. The first player to complete the first objective wins the tournament.
+14. If the first objective is not completed by the end of the event, the player with the highest total star count will be the winner.
+15. Players must submit progress screenshots/videos as proof of completion.
 
 ## Objectives
 1. Complete the Spiral Abyss with 3 stars in all chambers on all floors.
