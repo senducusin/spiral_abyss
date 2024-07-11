@@ -23,6 +23,7 @@
 13. The first player to complete the first objective wins the tournament.
 14. If the first objective is not completed by the end of the event, the player with the highest total star count will be the winner.
 15. Players must submit progress screenshots/videos as proof of completion.
+16. If the winner completes the first objective at least 10 days before the tournament's end date, they may choose to convert their prize into a cash reward (16,000.00 Pesos).
 
 ## Objectives
 1. Complete the Spiral Abyss with 3 stars in all chambers on all floors.
