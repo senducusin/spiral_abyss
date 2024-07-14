@@ -18,7 +18,7 @@
 8. Players are allowed to use Stardust.
 9. Players are allowed to use Starglitter.
 10. 4-star characters with maximum constellation (C6) can be used in the Abyss.
-11. 5-star characters with no more than one (1) constellation can be used in the Abyss.
+11. 5-star characters with no more than one (1) constellation can be used in the Abyss, except for the Traveler.
 12. There are no restrictions on in-game weapons, costumes, gliders, artifacts, or pets.
 13. The first player to complete the first objective wins the tournament.
 14. If the first objective is not completed by the end of the event, the player with the highest total star count will be the winner.
