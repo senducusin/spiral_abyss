@@ -38,3 +38,4 @@
 1. [Genshin Impact](https://genshin.hoyoverse.com/en/)
 2. [Infinix GT 20 Pro](https://ph.infinixmobility.com/gt-20-pro)
 3. [Genshin Helper](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRq-sQxkvdbvaJtQAGG6iVz2q2UN9FCKZ8Mkyis87QHFptcOU3ViLh0_PJyMxFSgwJZrd10kbYpQFl1/pubhtml#)
+4. [Genshin Impact Reaction Guide](https://docs.google.com/spreadsheets/d/1_KANmIZ8IWNtPQCOgR7VOkev92eku1mkY2c0zS60VcI/edit?gid=1357172273#gid=1357172273) by Ray Vincen Chan
