@@ -30,6 +30,7 @@
 ## Objectives
 1. Complete the Spiral Abyss with 3 stars in all chambers on all floors.
 2. Achieve the most damage dealt in a single hit.
+3. If a winner is already declared, the determination of the 1st and 2nd runners-up will follow the guidelines outlined in Rule #18.
 
 ## Prizes
 1. The champion will receive a brand new gaming phone Infinix GT 20 Pro (subject to change).
