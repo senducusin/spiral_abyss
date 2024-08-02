@@ -25,6 +25,7 @@
 15. Players must submit progress screenshots/videos as proof of completion.
 16. If the winner completes the first objective at least 10 days before the tournament's end date, they may choose to convert their prize into a cash reward (16,000.00 Pesos).
 17. Participants found purchasing or assisting in purchasing the Blessing of the Welkin Moon or Genesis Crystals for other participants in an attempt to disqualify them will be disqualified.
+18. If a winner is already declared, in addition to perfecting all the chambers of the Spiral Abyss, all remaining players must compete to achieve the shortest time possible to perfect the Abyss floors. The total time will be calculated starting from the end of Floor 9 Chamber 1 up to Floor 12 Chamber 3. Players must present screenshots of their best time using the Hoyolab app. Any run from Spiral Abyss version 4.7 or later is valid.
 
 ## Objectives
 1. Complete the Spiral Abyss with 3 stars in all chambers on all floors.
@@ -32,8 +33,9 @@
 
 ## Prizes
 1. The champion will receive a brand new gaming phone Infinix GT 20 Pro (subject to change).
-2. 2nd and 3rd place will receive one (1) Blessing of the Welkin Moon or cash equivalent (290 pesos).
-3. Achievement reward: One (1) Battle Pass or cash equivalent (590 pesos).
+2. 1st runner up will receive a second hand gaming phone RoG Phone 3 (subject to change).
+3. 2nd runner up will receive a Blessing of the Welkin Moon or cas equivalent (280 pesos).
+4. Achievement reward: One (1) Battle Pass or cash equivalent (590 pesos).
 
 ## Links
 1. [Genshin Impact](https://genshin.hoyoverse.com/en/)
