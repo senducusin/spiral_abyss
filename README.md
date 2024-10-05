@@ -28,7 +28,7 @@
 18. If a winner is already declared, all remaining players must compete to achieve the shortest time possible to perfect the Abyss floors. The total time will be calculated starting from the end of Floor 9 Chamber 1 up to Floor 12 Chamber 3. Players must present screenshots of their best time using the Hoyolab app. Any run from Spiral Abyss version 4.7 or later is valid.
 
 ## Penalty
-This rule applies exclusively to Rule #18. For each chamber not reached by the participant, 10 minutes will be added to their total computed run time.
+This rule applies exclusively to Rule #18. For each chamber not cleared by the participant, 10 minutes will be added to their total computed run time.
 
 ## Objectives
 1. Complete the Spiral Abyss with 3 stars in all chambers on all floors.
